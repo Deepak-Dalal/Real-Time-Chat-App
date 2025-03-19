@@ -1,4 +1,4 @@
-# Chat App
+# Real Time Chat App
 
 A real-time web based chat applciation like whatsapp web.
 
